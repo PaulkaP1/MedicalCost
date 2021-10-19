@@ -5,4 +5,6 @@ Used models:
 - Random forest
 - Linear Regression
 
-Task: predict insurance costs
+Purpose: predict insurance costs.
+
+Open *regression_task.ipynb* to see code and results.
